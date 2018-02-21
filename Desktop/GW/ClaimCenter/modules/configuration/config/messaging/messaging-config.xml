@@ -32,7 +32,6 @@
       id="111"
       initialretryinterval="100"
       internal="true"
-      maxretries="11"
       name="Java.MessageDestination.JMSMessageTransport.Name"
       replyplugin="jmsReply"
       transportplugin="jmsTransport">
